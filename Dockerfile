@@ -1,4 +1,4 @@
-FROM lsiobase/alpine.arm64
+FROM lsiobase/alpine.arm64:3.6
 MAINTAINER sparklyballs
 
 # package versions

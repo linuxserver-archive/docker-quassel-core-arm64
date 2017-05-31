@@ -86,5 +86,6 @@ You're now connected to IRC. Let's add you to our [IRC](http://www.linuxserver.i
 
 ## Versions
 
++ **31.05.17:** Rebase to alpine 3.6.
 + **13.05.17:** Switch to git source.
 + **07.12.16:** Initial Release.
