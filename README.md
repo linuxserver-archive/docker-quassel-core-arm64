@@ -86,8 +86,7 @@ You're now connected to IRC. Let's add you to our [IRC](http://www.linuxserver.i
 
 ## Versions
 
-+ **03.01.18:** Deprecate cpu_core routine lack of scaling.
-+ **09.12.17:** Rebase to alpine 3.7.
++ **03.01.18:** Rebase to alpine 3.7, Deprecate cpu_core routine lack of scaling.
 + **26.11.17:** Use cpu core counting routine to speed up build time.
 + **31.05.17:** Rebase to alpine 3.6.
 + **13.05.17:** Switch to git source.
